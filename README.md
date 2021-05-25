@@ -14,7 +14,7 @@ creating summary data frame and visualizations to show how data differ by city t
 
 
 
-![](images/summary_df.png)
+![](images/total_fare.png)
 
 
 
